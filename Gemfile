@@ -32,7 +32,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-#use before deploying to heroku
+#use before deploying to heroku.
 =begin
 group :development do
 	gem 'pg'
